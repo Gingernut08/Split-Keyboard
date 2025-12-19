@@ -1,9 +1,15 @@
 50 Key Compact Keyboard with 2 function layers and wireless capability
 
+
 <img width="864" height="538" alt="image" src="https://github.com/user-attachments/assets/1678225a-8958-4419-8169-7dc305f9295c" />
+
+
 CAD Case Assembled
 
+
 <img width="750" height="593" alt="image" src="https://github.com/user-attachments/assets/c1353c35-0fa1-4a36-b282-4023892648be" />
+
+
 PCB
 
 BOM:
