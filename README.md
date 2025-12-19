@@ -33,4 +33,4 @@ BOM:
 
 2x 3D Printed Case Bottom
 
-2x 14500 LiPos
+2x 502030 Lipo
