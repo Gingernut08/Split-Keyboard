@@ -8,13 +8,23 @@ PCB
 
 BOM:
 50x Custom Keycaps
+
 50x Cherry MX Tactile Brown Switches
+
 50x Cherry MX Hot Swap Plates
+
 50x 1N4148 SMD Diodes
+
 2x 806K Resistors
+
 2x 2M Resistors
+
 2x XIAO nrf52840 SMD
+
 2x PCB
+
 2x 3D Printed Case
+
 2x 3D Printed Case Bottom
+
 2x 14500 LiPos
