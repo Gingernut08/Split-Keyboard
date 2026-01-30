@@ -13,24 +13,6 @@ CAD Case Assembled
 PCB
 
 BOM:
-50x Custom Keycaps
 
-50x Cherry MX Tactile Brown Switches
+<img width="1066" height="558" alt="image" src="https://github.com/user-attachments/assets/89c6c23b-cfce-4e44-93e9-47055a40098c" />
 
-50x Cherry MX Hot Swap Plates
-
-50x 1N4148 SMD Diodes
-
-2x 806K Resistors
-
-2x 2M Resistors
-
-2x XIAO nrf52840 SMD
-
-2x PCB
-
-2x 3D Printed Case
-
-2x 3D Printed Case Bottom
-
-2x 502030 Lipo
