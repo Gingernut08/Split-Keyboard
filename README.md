@@ -12,6 +12,11 @@ CAD Case Assembled
 
 PCB
 
+
+<img width="859" height="438" alt="image" src="https://github.com/user-attachments/assets/1ece0939-76fd-43f9-a2ed-b7dcfed509f0" />
+
+Schematic repeated for each half
+
 BOM:
 
 <img width="1066" height="558" alt="image" src="https://github.com/user-attachments/assets/89c6c23b-cfce-4e44-93e9-47055a40098c" />
